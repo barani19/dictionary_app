@@ -21,7 +21,7 @@ class MyAppBar extends StatelessWidget {
               IconButton(
                 onPressed: () {
                   closerandommeaning(
-                      context); // Ensure this function is defined
+                      context); 
                 },
                 icon: Icon(Icons.arrow_back_ios),
                 iconSize: 20,
